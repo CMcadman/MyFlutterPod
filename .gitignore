@@ -35,3 +35,6 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 # Pods/
+
+#ignore flutter_module_for_ios 工程文件
+flutter_module_for_ios/
