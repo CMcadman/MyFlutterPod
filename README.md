@@ -1,0 +1,2 @@
+# MyFlutterPod
+flutter_module
